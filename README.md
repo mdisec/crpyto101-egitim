@@ -7,7 +7,7 @@ Klasör = merhaba_xor
 
 Bağımlılıklar
 
-``
+```
 pip install pillow
 ```
 
