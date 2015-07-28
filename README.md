@@ -7,14 +7,14 @@ Klasör = 1-merhaba_xor
 
 Bağımlılıklar
 
-```
+``
 pip install pillow
 ```
 
 [https://www.mehmetince.net/crypto-101-1-merhaba-xor](https://www.mehmetince.net/crypto-101-1-merhaba-xor)
 
 
-### 1 - Block Cipher Encryption ve DES Analizi 
+### 2 - Block Cipher Encryption ve DES Analizi 
 Klasör = 2-block_cipher
 
 Bağımlılıklar
@@ -24,3 +24,15 @@ pip install pycrypto
 ```
 
 [https://www.mehmetince.net/crypto-101-2-block-cipher-encryption-ve-des-analizi](https://www.mehmetince.net/crypto-101-2-block-cipher-encryption-ve-des-analizi)
+
+
+### 3 - DES Saldırıları, 3DES ve AES metodları
+Klasör = 3-des_saldirilari_ve_3des_aes
+
+Bağımlılıklar
+
+```
+pip install pycrypto
+```
+
+[https://www.mehmetince.net/crypto-101-3-dese-yonelik-saldirilar-3des-aes-metodlari/](https://www.mehmetince.net/crypto-101-3-dese-yonelik-saldirilar-3des-aes-metodlari/)
