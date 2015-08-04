@@ -36,3 +36,10 @@ pip install pycrypto
 ```
 
 [https://www.mehmetince.net/crypto-101-3-dese-yonelik-saldirilar-3des-aes-metodlari/](https://www.mehmetince.net/crypto-101-3-dese-yonelik-saldirilar-3des-aes-metodlari/)
+
+
+### 4 - Crypto 101 – [4] Stream Cipher ve Random Number Generation
+Klasör = 4-stream_ciphers_prng
+
+
+[https://www.mehmetince.net/crypto-101-4-stream-cipher-ve-random-number-generation/](https://www.mehmetince.net/crypto-101-4-stream-cipher-ve-random-number-generation/)
